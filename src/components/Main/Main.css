@@ -1,0 +1,35 @@
+.app-container {
+    text-align: center;
+  }
+  
+  .add-button {
+    background-color: #4CAF50; /* Zelena */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .update-button, .cancel-button {
+    background-color: #008CBA; /* Plava */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 2px;
+    cursor: pointer;
+  }
+  
+  .expenses-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
